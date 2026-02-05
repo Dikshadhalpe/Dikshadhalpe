@@ -98,16 +98,5 @@ I believe in **consistent learning, hands-on practice, and continuous self-impro
 - Open-source beginner-friendly projects  
 - College or internship-oriented applications  
 
----
 
-## 📫 How to Reach Me  
 
-- 📧 Email: *your-email-here*  
-- 💼 LinkedIn: *your-link-here*  
-- 📸 Instagram: **@diksha_dhalpe22**
-
----
-
-## ⚡ Fun Fact  
-
-> I believe **small daily progress creates big career success** 🚀
