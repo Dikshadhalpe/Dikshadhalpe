@@ -49,12 +49,7 @@ I believe in **consistent learning, hands-on practice, and continuous self-impro
 - Aptitude & communication skills
 
 ---
-
 ## 🛠️ Tech Stack  
-
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
