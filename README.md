@@ -1,7 +1,6 @@
-# Hi 👋, I’m Diksha Dhalpe  
+# Hi , I’m Diksha Dhalpe  
 💻 Aspiring **Software Developer | Web Developer**  
 🚀 Actively preparing for **placements & internships**
-
 ---
 ## 👩‍💻 About Me  
 
@@ -21,7 +20,6 @@ I believe in **consistent learning, hands-on practice, and continuous self-impro
   - Database Management Systems  
   - Web Development  
 ---
-
 ## 💼 What I’m Currently Working On  
 
 - 🌐 Full-stack web development projects  
