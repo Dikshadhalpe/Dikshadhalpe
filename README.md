@@ -1,6 +1,5 @@
 # Hi , I’m Diksha Dhalpe  
-💻 Aspiring **Software Developer | Web Developer**  
-🚀 Actively preparing for **placements & internships**
+Aspiring **Software Developer | Web Developer**  
 ---
 ## 👩‍💻 About Me  
 
